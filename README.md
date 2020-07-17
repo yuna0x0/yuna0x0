@@ -1,4 +1,6 @@
-![edisonlee55 Banner](https://cdn.edisonlee55.com/edisonlee55/resources/photo/2020edisonlee55banner.png)
+<p align="center">
+  <a href="https://www.edisonlee55.com"><img src="https://cdn.edisonlee55.com/edisonlee55/resources/photo/2020edisonlee55banner.png" alt="edisonlee55 Banner"></a>
+</p>
 
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
