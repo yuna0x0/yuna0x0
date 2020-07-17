@@ -1,4 +1,4 @@
-### Hi there 👋
+![edisonlee55 Banner](https://cdn.edisonlee55.com/edisonlee55/resources/photo/2020edisonlee55banner.png)
 
 <!--
 **edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
