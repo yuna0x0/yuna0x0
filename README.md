@@ -5,6 +5,10 @@
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edisonlee55&hide_border=true&show_icons=true" alt="edisonlee55's github stats">
+</p>
+
+<p align="center">
   <strong><a href="https://www.edisonlee55.com">Official Website</a></strong> |
   <strong><a href="https://twitter.com/edisonlee55">Twitter</a></strong> |
   <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
