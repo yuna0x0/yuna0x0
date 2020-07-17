@@ -2,6 +2,7 @@
   <a href="https://www.edisonlee55.com"><img src="https://cdn.edisonlee55.com/edisonlee55/resources/photo/2020edisonlee55banner.png" alt="edisonlee55 Banner"></a>
 </p>
 
+<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Edison Lee</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
