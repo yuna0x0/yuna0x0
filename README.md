@@ -24,10 +24,10 @@
 <h3>😋 Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#180](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/180) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-2. ❗️ Closed issue [#6](https://github.com//NCTU-OAuth/issue-report/issues/6) in [NCTU-OAuth/issue-report](https://github.com//NCTU-OAuth/issue-report)
-3. 🗣 Commented on [#6](https://github.com//NCTU-OAuth/issue-report/issues/6) in [NCTU-OAuth/issue-report](https://github.com//NCTU-OAuth/issue-report)
-4. 🗣 Commented on [#86](https://github.com//anuraghazra/github-readme-stats/issues/86) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
+1. 💪 Opened PR [#6](https://github.com//jamesgeorge007/github-activity-readme/pull/6) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+2. 💪 Opened PR [#180](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/180) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+3. ❗️ Closed issue [#6](https://github.com//NCTU-OAuth/issue-report/issues/6) in [NCTU-OAuth/issue-report](https://github.com//NCTU-OAuth/issue-report)
+4. 🗣 Commented on [#6](https://github.com//NCTU-OAuth/issue-report/issues/6) in [NCTU-OAuth/issue-report](https://github.com//NCTU-OAuth/issue-report)
 5. 🗣 Commented on [#86](https://github.com//anuraghazra/github-readme-stats/issues/86) in [anuraghazra/github-readme-stats](https://github.com//anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
 
