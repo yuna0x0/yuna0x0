@@ -18,6 +18,14 @@
 </p>
 
 <p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+
+<hr>
+
+<h3>😋 Recent Activity</h3>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 <!--
 **edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
