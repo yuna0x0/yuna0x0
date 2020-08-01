@@ -24,11 +24,11 @@
 <h3>😋 Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com//jamesgeorge007/github-activity-readme/issues/6) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. 💪 Opened PR [#6](https://github.com//jamesgeorge007/github-activity-readme/pull/6) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. 💪 Opened PR [#180](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/180) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. ❗️ Closed issue [#6](https://github.com//NCTU-OAuth/issue-report/issues/6) in [NCTU-OAuth/issue-report](https://github.com//NCTU-OAuth/issue-report)
-5. 🗣 Commented on [#6](https://github.com//NCTU-OAuth/issue-report/issues/6) in [NCTU-OAuth/issue-report](https://github.com//NCTU-OAuth/issue-report)
+1. 🗣 Commented on [#180](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/180) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+2. 🗣 Commented on [#6](https://github.com//jamesgeorge007/github-activity-readme/issues/6) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+3. 💪 Opened PR [#6](https://github.com//jamesgeorge007/github-activity-readme/pull/6) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+4. 💪 Opened PR [#180](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/180) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+5. ❗️ Closed issue [#6](https://github.com//NCTU-OAuth/issue-report/issues/6) in [NCTU-OAuth/issue-report](https://github.com//NCTU-OAuth/issue-report)
 <!--END_SECTION:activity-->
 
 
