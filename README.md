@@ -28,7 +28,7 @@
 2. 🗣 Commented on [#6](https://github.com//jamesgeorge007/github-activity-readme/issues/6) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 3. 💪 Opened PR [#6](https://github.com//jamesgeorge007/github-activity-readme/pull/6) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 4. 💪 Opened PR [#180](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/180) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-5. ❗️ Closed issue [#6](https://github.com//NCTU-OAuth/issue-report/issues/6) in [NCTU-OAuth/issue-report](https://github.com//NCTU-OAuth/issue-report)
+5. undefined
 <!--END_SECTION:activity-->
 
 
