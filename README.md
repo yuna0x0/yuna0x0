@@ -19,19 +19,6 @@
 
 <p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
 
-<hr>
-
-<h3>😋 Recent Activity</h3>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#180](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/180) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#6](https://github.com//jamesgeorge007/github-activity-readme/issues/6) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. 💪 Opened PR [#6](https://github.com//jamesgeorge007/github-activity-readme/pull/6) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. 💪 Opened PR [#180](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/180) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-5. undefined
-<!--END_SECTION:activity-->
-
-
 <!--
 **edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
