@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 -->
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/edisonlee55/edisonlee55/assets/5277788/8fd753cd-1e22-4ad8-9246-6aac600bd6f5'); background-size: 300px;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/edisonlee55/edisonlee55/assets/5277788/91ab193d-f2a9-47bb-be19-9e923d25b2ed'); background-size: 300px;]{x0000}$}
