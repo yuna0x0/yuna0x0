@@ -4,15 +4,15 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://yuna0x0.com">yuna0x0</a>!</h1>
+<h1 align="center">hi, i'm <a href="https://yuna0x0.com">yuna0x0</a>!</h1>
 <p align="center">
   <a href="https://yuna0x0.com">
     <img src="https://yuna0x0.com/88x31.webp" alt="yuna0x0">
   </a>
 </p>
-<h3 align="center">Welcome to my GitHub profile :3</h3>
+<h3 align="center">welcome to my GitHub profile :3</h3>
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+<p align="center">i'm a catgirl researcher in ai / infosec, game dev and content creator～☆</p>
 
 <p align="center">
   <strong><a href="https://yuna0x0.com">Website</a></strong> |
