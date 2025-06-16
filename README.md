@@ -12,7 +12,7 @@
 </p>
 <h3 align="center">welcome to my GitHub profile :3</h3>
 
-<p align="center">i'm a catgirl researcher in ai / infosec, game dev and content creator～☆</p>
+<p align="center">i'm a catgirl researcher in ai / infosec, game dev and content creation～☆</p>
 
 <p align="center">
   <strong><a href="https://yuna0x0.com">Website</a></strong> |
