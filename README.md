@@ -21,3 +21,10 @@
   <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
   <strong><a href="https://yuna0x0.com/yuna0x0.asc">PGP</a></strong>
 </p>
+
+<p align="center">
+	<a href="https://octo-ring.com/p/yuna0x0/prev">&larr;</a>
+	<a class="cactus-link" href="https://octo-ring.com">Octo Ring</a>
+	<a href="https://octo-ring.com/p/yuna0x0/random">🎲</a>
+	<a href="https://octo-ring.com/p/yuna0x0/next">&rarr;</a>
+</p>
